@@ -8,7 +8,7 @@ Detection Unit: Uses an ultrasonic sensor to sense nearby objects.
 
 Alert Unit: Receives signals from the Detection Unit via Bluetooth and activates a buzzer and LED warning system.
 
-🛠 Features
+## 🛠 Features
 
 Object Detection: Uses an HC-SR04 ultrasonic sensor to detect objects within a predefined distance.
 
@@ -18,7 +18,7 @@ Audible and Visual Alerts: Activates a buzzer and flashing LED when an obstacle 
 
 Low Power Consumption: Optimized for battery operation in the field.
 
-⚙️ Hardware Requirements
+### ⚙️ Hardware Requirements
 
 2x STM32 Development Boards (e.g., STM32F4 or STM32F1 series)
 
@@ -32,7 +32,7 @@ Low Power Consumption: Optimized for battery operation in the field.
 
 Jumper Wires & Breadboard (for prototyping)
 
-🔧 Setup Instructions
+#### 🔧 Setup Instructions
 
 1️⃣ Install Required Software
 
