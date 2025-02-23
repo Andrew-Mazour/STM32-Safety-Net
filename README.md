@@ -18,7 +18,7 @@ Audible and Visual Alerts: Activates a buzzer and flashing LED when an obstacle 
 
 Low Power Consumption: Optimized for battery operation in the field.
 
-### ⚙️ Hardware Requirements
+## ⚙️ Hardware Requirements
 
 2x STM32 Development Boards (e.g., STM32F4 or STM32F1 series)
 
@@ -32,7 +32,7 @@ Low Power Consumption: Optimized for battery operation in the field.
 
 Jumper Wires & Breadboard (for prototyping)
 
-#### 🔧 Setup Instructions
+## 🔧 Setup Instructions
 
 1️⃣ Install Required Software
 
@@ -63,13 +63,13 @@ openocd -f board/stm32f4discovery.cfg
 
 Set up Cortex-Debug in VS Code and start debugging.
 
-📡 Wireless Communication Protocol
+## 📡 Wireless Communication Protocol
 
 The Detection Unit sends a Bluetooth signal (ALERT) when an object is detected.
 
 The Alert Unit listens for this signal and activates the buzzer/LED upon reception.
 
-🎯 Future Enhancements
+## 🎯 Future Enhancements
 
 Add LoRa for long-range communication.
 
