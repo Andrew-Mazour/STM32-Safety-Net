@@ -1,4 +1,4 @@
-# 🚧 Project Overview
+## 🚧 Project Overview
 
 STM32-Safety-Net is a safety system designed for construction workers, utilizing STM32 microcontrollers, ultrasonic sensors, buzzers, and LEDs to detect nearby objects and alert workers of potential hazards. The system consists of two STM32 devices:
 
