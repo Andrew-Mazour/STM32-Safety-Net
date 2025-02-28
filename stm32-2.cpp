@@ -28,7 +28,7 @@ void activate_alarm() {
 }
 
 void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart) {
-    if (strstr(received_data, "ALERT")) {
+    if (huart->Instance == USART2 && str(received_data, "ALERT")) {
         activate_alarm();
     }
     HAL_UART_Receive_IT(&huart2, (uint8_t *)received_data, 6);
