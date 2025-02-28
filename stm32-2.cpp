@@ -1,4 +1,5 @@
 // Alarm/Light Board
+
 /*
     Receives data from another STM32 to activate the alarm
 */
