@@ -2,7 +2,7 @@
 """
     Includes sensor to send signals to other stm32
 """
-    
+
 #include "main.h"
 #include <string.h>
 #include <stdio.h>
