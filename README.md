@@ -8,7 +8,7 @@ STM32-Safety-Net is a safety system designed for construction workers, utilizing
 
 ## 🛠 Features
 
-**Object Detection**: Uses an HC-SR04 ultrasonic sensor to detect objects within a predefined distance.
+-**Object Detection**: Uses an HC-SR04 ultrasonic sensor to detect objects within a predefined distance.
 
 **Wireless Communication**: Utilizes Bluetooth (HC-05/HC-06) to send alerts between STM32 units.
 
