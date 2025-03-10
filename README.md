@@ -12,7 +12,7 @@ STM32-Safety-Net is a safety system designed for construction workers, utilizing
 
 - **Wireless Communication**: Utilizes Bluetooth (HC-05/HC-06) to send alerts between STM32 units.
 
-**Audible and Visual Alerts**: Activates a buzzer and flashing LED when an obstacle is detected.
+-**Audible and Visual Alerts**: Activates a buzzer and flashing LED when an obstacle is detected.
 
 **Low Power Consumption**: Optimized for battery operation in the field.
 
