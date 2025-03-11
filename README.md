@@ -14,7 +14,7 @@ STM32-Safety-Net is a safety system designed for construction workers, utilizing
 
 - **Audible and Visual Alerts**: Activates a buzzer and flashing LED when an obstacle is detected.
 
-**Low Power Consumption**: Optimized for battery operation in the field.
+-**Low Power Consumption**: Optimized for battery operation in the field.
 
 ## ⚙️ Hardware Requirements
 
