@@ -22,7 +22,7 @@ STM32-Safety-Net is a safety system designed for construction workers, utilizing
 
 - 1x HC-SR04 Ultrasonic Sensor
 
--1x HC-05/HC-06 Bluetooth Module
+- 1x HC-05/HC-06 Bluetooth Module
 
 1x Buzzer
 
