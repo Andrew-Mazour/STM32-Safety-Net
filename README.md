@@ -34,7 +34,7 @@ STM32-Safety-Net is a safety system designed for construction workers, utilizing
 
 1️⃣ Install Required Software
 
--VS Code with C/C++ and Cortex-Debug extensions
+- VS Code with C/C++ and Cortex-Debug extensions
 
 STM32CubeIDE (optional, for code generation)
 
