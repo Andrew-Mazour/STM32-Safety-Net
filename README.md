@@ -28,7 +28,7 @@ STM32-Safety-Net is a safety system designed for construction workers, utilizing
 
 - 1x LED + Resistor
 
-Jumper Wires & Breadboard (for prototyping)
+-Jumper Wires & Breadboard (for prototyping)
 
 ## 🔧 Setup Instructions
 
