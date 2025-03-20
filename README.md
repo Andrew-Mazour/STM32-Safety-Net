@@ -38,7 +38,7 @@ STM32-Safety-Net is a safety system designed for construction workers, utilizing
 
 - STM32CubeIDE (optional, for code generation)
 
-ARM GCC Toolchain (Download)
+-ARM GCC Toolchain (Download)
 
 OpenOCD for debugging
 
