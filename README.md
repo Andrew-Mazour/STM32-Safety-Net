@@ -40,7 +40,7 @@ STM32-Safety-Net is a safety system designed for construction workers, utilizing
 
 - ARM GCC Toolchain (Download)
 
--OpenOCD for debugging
+- OpenOCD for debugging
 
 2️⃣ Clone the Repository
 
