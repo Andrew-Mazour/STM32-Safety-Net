@@ -49,7 +49,7 @@ STM32-Safety-Net is a safety system designed for construction workers, utilizing
 
 3️⃣ Build the Project
 
-make
+-make
 
 4️⃣ Flash to STM32 Board
 
