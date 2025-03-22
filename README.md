@@ -45,7 +45,7 @@ STM32-Safety-Net is a safety system designed for construction workers, utilizing
 2️⃣ Clone the Repository
 
 - git clone https://github.com/yourusername/STM32-Safety-Net.git
-cd STM32-Safety-Net
+-cd STM32-Safety-Net
 
 3️⃣ Build the Project
 
