@@ -59,7 +59,7 @@ Use OpenOCD or STM32CubeProgrammer to flash the firmware:
 
 5️⃣ Run & Debug
 
--Set up Cortex-Debug in VS Code and start debugging.
+- Set up Cortex-Debug in VS Code and start debugging.
 
 ## 📡 Wireless Communication Protocol
 
