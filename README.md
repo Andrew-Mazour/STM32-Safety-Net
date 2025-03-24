@@ -55,7 +55,7 @@ STM32-Safety-Net is a safety system designed for construction workers, utilizing
 
 Use OpenOCD or STM32CubeProgrammer to flash the firmware:
 
-openocd -f board/stm32f4discovery.cfg
+-openocd -f board/stm32f4discovery.cfg
 
 5️⃣ Run & Debug
 
