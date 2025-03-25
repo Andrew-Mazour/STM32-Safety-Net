@@ -69,7 +69,7 @@ Use OpenOCD or STM32CubeProgrammer to flash the firmware:
 
 ## 🎯 Future Enhancements
 
-Add LoRa for long-range communication.
+-Add LoRa for long-range communication.
 
 Integrate machine learning for smarter hazard detection.
 
