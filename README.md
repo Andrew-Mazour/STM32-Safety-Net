@@ -63,7 +63,7 @@ Use OpenOCD or STM32CubeProgrammer to flash the firmware:
 
 ## 📡 Wireless Communication Protocol
 
-The Detection Unit sends a Bluetooth signal (ALERT) when an object is detected.
+-The Detection Unit sends a Bluetooth signal (ALERT) when an object is detected.
 
 The Alert Unit listens for this signal and activates the buzzer/LED upon reception.
 
