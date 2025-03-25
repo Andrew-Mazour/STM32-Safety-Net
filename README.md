@@ -71,6 +71,6 @@ Use OpenOCD or STM32CubeProgrammer to flash the firmware:
 
 - Add LoRa for long-range communication.
 
--Integrate machine learning for smarter hazard detection.
+- Integrate machine learning for smarter hazard detection.
 
 Implement a mobile app for real-time alerts.
