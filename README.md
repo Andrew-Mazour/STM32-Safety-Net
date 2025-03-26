@@ -73,4 +73,4 @@ Use OpenOCD or STM32CubeProgrammer to flash the firmware:
 
 - Integrate machine learning for smarter hazard detection.
 
--Implement a mobile app for real-time alerts.
+- Implement a mobile app for real-time alerts.
